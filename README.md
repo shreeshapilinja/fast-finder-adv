@@ -12,7 +12,8 @@ Display search suggestions or autocomplete options as the user types.
 Example: like google search suggestions
 
 JSON Data:
-    The following json data is some part of file in your application to populate the search result. Json link
+    The following json data is some part of file in your application to populate the search result.
+```
 [
   {
     "country": "United States",
@@ -36,7 +37,7 @@ JSON Data:
     "currency": "Brazilian Real"
   },
   .........like this data continues 
-  
+  ```
   
 Tools and Technologies:
 React: Use React for building the user interface and managing component-based front-end development,and create an attractive UI with CSS or by using external frameworks.
